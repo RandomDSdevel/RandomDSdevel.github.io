@@ -1,0 +1,4 @@
+lsi:  true
+markdown:  rdiscount
+highlight:  rouge
+paginate:  100

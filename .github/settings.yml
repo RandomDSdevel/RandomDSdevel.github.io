@@ -1,0 +1,33 @@
+repository:  
+  # See https://developer.github.com/v3/repos/#edit for all available settings.  
+  name:  "RandomDSdevel.github.io"
+  description:  "My personal information and content pages and blog.  "
+  homepage:  "https://RandomDSdevel.github.io/"
+  topics:  "personal site", blog
+  private:  false
+  has_issues:  true
+  has_projects:  true
+  has_wiki:  true
+  has_downloads:  true
+  default_branch:  master
+  allow_merge_commit:  true
+  allow_squash_merge:  true
+  allow_rebase_merge:  true
+
+labels:  # For issues and Pull Requests
+  - name:  bug
+    color:  #ee0701
+  - name:  duplicate
+    color:  #cccccc
+  - name:  enhancement
+    color:  #84b6eb
+  - name:  good first issue
+    color:  #7057ff
+  - name:  help wanted
+    color:  #33aa3f
+  - name:  invalid
+    color:  #e6e6e6
+  - name:  question
+    color:  #cc317c
+  - name:  wontfix
+    color:  #ffffff
